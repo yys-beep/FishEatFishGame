@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.registerRoot{
+	-fx-background-image:url("sea_background.jpg");
+	-fx-background-size: cover;
+	-fx-background-repeat:no-repeat;
+}
+.label{
+	-fx-text-fill: white;
+}
+.gameOverPane .label{
+	-fx-text-fill: black;
+}
+.table-view .column-header-background .label{
+	-fx-text-fill: black;
+	-fx-alignment: center;
+	-fx-font-family: "Times New Roman";
+	-fx-font-size:17px;
+}
+.table-row-cell{
+	-fx-font-size: 14px;
+	-fx-background-color: #E3F2FD;
+	
+}
+.table-view .table-cell{
+	-fx-font-family: "Times New Roman";
+	-fx-alignment:CENTER;
+	-fx-text-fill:black;
+	-fx-border-color:black;
+	-fx-border-width:0.1px;
+}
