@@ -23,12 +23,3 @@ This project was developed as part of a university assignment to apply Java prog
 - Programming Paradigm: Object-Oriented Programming (OOP)  
 
 ---
-
-## My Role
-- Independently developed approximately 95% of the game
-- Designed and implemented core game mechanics including movement and collision detection
-- Built scoring system and game logic flow
-- Developed interactive UI using JavaFX
-- Optimized gameplay performance for smooth rendering
-
----
